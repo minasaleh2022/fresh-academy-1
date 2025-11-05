@@ -1,12 +1,7 @@
-# Fresh Academy — Clean Starter
-
-- متوافق بالكامل مع Flutter 3.22.0
-- go_router 10.2.0 (بدون كسر API)
-- ShellRoute + Bottom Navigation
-- GitHub Actions يبني APK Debug تلقائيًا
-
-## CI
-الملف: `.github/workflows/android-debug.yml`
+# Fresh Academy — Full Clean Template
+- متوافق ومثبت نسخ الحزم (Flutter 3.22.0 + go_router 10.2.0)
+- هيكل جاهز: RBAC مبسط، Dio، Hive، BottomNav، Router
+- GitHub Actions مضافة وتخرج APK Debug تلقائيًا
 
 ## تشغيل محلي
 ```

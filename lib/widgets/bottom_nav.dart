@@ -9,7 +9,7 @@ class BottomNav extends StatelessWidget {
     '/courses/catalog',
     '/support/main',
     '/reports/dashboard',
-    '/users/profile'
+    '/profile'
   ];
 
   int _indexFromLocation(String loc) {
